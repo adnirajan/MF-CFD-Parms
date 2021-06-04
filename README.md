@@ -1,4 +1,4 @@
-# MF-CFD_Parms
+# MF-CFD-Parms
 
 CPP source code to calculate MF-CFD parameters. The src folder has all the source code and a Makefile. The resulting output excecutable is "MF_PARMS"
 
